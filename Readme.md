@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyComboBoxEdit.cs](./CS/WindowsApplication1/MyComboBoxEdit.cs) (VB: [MyComboBoxEdit.vb](./VB/WindowsApplication1/MyComboBoxEdit.vb))
+<!-- default file list end -->
 # How to change dropdown list item indents in a ComboBoxEdit descendant
 
 
